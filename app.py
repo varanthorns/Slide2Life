@@ -37,4 +37,4 @@ st.markdown("""
 
 # 3. ดึงหน้าเว็บ Slide2Life (Lovable) มาแสดง
 # ปรับ height เป็น 100vh ผ่านการคำนวณหรือตั้งค่าสูงพอสำหรับหน้าจอมาตรฐาน
-components.iframe("https://mental-fortress-hub.lovable.app", height=900, scrolling=True)
+components.iframe("https://slide2-vivid-path.lovable.app/", height=900, scrolling=True)
